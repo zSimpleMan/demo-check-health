@@ -6,7 +6,7 @@ import MailService from './mail/mail.service';
 @Injectable()
 export class AppService {
 
-  private myMail = 'nhathanluu456@gmail.com'
+  private myMail = 'nhathanluu147@gmail.com'
 
   constructor(
     private checkHealthService: CheckHealthService,
